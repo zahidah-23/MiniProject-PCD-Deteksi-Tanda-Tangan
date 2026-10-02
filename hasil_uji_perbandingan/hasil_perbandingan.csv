@@ -1,0 +1,19 @@
+No,Kelompok,Nama Gambar,Global (%),Otsu (%),Opening (%),Closing (%),Hasil Sistem
+1,dataset_awal,01_HighQuality_Enhanced.jpg,7.51,8.44,7.75,7.86,SIGNATURE PRESENT
+2,dataset_awal,02_LowContrast.jpg,1.1,8.49,7.87,7.98,SIGNATURE PRESENT
+3,dataset_awal,03_Blurred.jpg,2.65,12.28,12.21,12.27,SIGNATURE PRESENT
+4,dataset_awal,04_HighNoise.jpg,6.67,8.29,7.46,7.59,SIGNATURE PRESENT
+5,dataset_awal,05_LowResolution_Upsampled.jpg,5.52,9.37,9.2,9.26,SIGNATURE PRESENT
+6,dataset_awal,06_Faded_Underexposed.jpg,8.76,8.49,7.91,8.02,SIGNATURE PRESENT
+7,dataset_awal,07_ColorShift_WarmTint.jpg,7.01,8.47,7.85,7.96,SIGNATURE PRESENT
+8,dataset_awal,08_JPEGCompression_Artifacts.jpg,6.62,8.52,8.03,8.12,SIGNATURE PRESENT
+9,dataset_awal,09_CombinedDegradation.jpg,7.5,9.09,8.84,8.9,SIGNATURE PRESENT
+1,dataset_uji,01_Sisa_TTD.jpg,0.38,0.43,0.0,0.0,SIGNATURE ABSENT
+2,dataset_uji,02_Sisa_TTD.jpg,0.06,0.43,0.0,0.0,SIGNATURE ABSENT
+3,dataset_uji,03_Sisa_TTD.jpg,0.13,0.63,0.0,0.0,SIGNATURE ABSENT
+4,dataset_uji,04_Sisa_TTD.jpg,0.33,0.41,0.0,0.0,SIGNATURE ABSENT
+5,dataset_uji,05_Sisa_TTD.jpg,0.29,0.46,0.0,0.0,SIGNATURE ABSENT
+6,dataset_uji,06_Sisa_TTD.jpg,0.44,0.42,0.0,0.0,SIGNATURE ABSENT
+7,dataset_uji,07_Sisa_TTD.jpg,0.35,0.43,0.0,0.0,SIGNATURE ABSENT
+8,dataset_uji,08_Sisa_TTD.jpg,0.33,0.43,0.0,0.0,SIGNATURE ABSENT
+9,dataset_uji,09_Sisa_TTD.jpg,0.38,0.46,0.0,0.0,SIGNATURE ABSENT
